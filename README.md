@@ -73,7 +73,7 @@ The useMemo hook was also new to me this sprint. Without it, every time any stat
 
 ## Live Demo
 
-Deployed on Vercel: [add your vercel link here]
+Deployed on Vercel: (https://cinestream-next-sprint10.vercel.app/)
 
 ## API
 
