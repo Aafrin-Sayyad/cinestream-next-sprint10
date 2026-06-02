@@ -84,6 +84,5 @@ If node_modules gets committed before .gitignore is set up properly, git still t
 | Concept doubts | 4 |
 | Error debugging help | 2 |
 | Code written by AI | 0 |
-| Code written by me | All of it |
 
-I wrote all the code myself. AI was only used to understand concepts and debug errors I couldn't figure out from documentation alone.
+
